@@ -6,7 +6,10 @@
 <hr />
 <h2>👨🏻&zwj;🎓 About Me</h2>
 
-<p>*Study Java, SWING, Python</p>
+<p>*17 y.o. coder
+   *Study Java, Python
+   *Know Swing,JavaCore.
+</p>
 
 <p>&nbsp;</p>
 <div>
