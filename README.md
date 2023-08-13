@@ -7,8 +7,8 @@
 <h2>👨🏻&zwj;🎓 About Me</h2>
 
 <p>*17 y.o. coder</p>
- <p>  *Study Spring,C++</p>
- <p>  *Know Swing, JavaCore, base Python.
+ <p>  *Study Spring</p>
+ <p>  *Know Swing, JavaCore,C++, base Python.
 </p>
 
 <p>&nbsp;</p>
