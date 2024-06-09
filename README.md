@@ -30,7 +30,13 @@
 
 <!-- WakaTime Stats -->
 ## 📊 Coding Activity
+- ### Codewars
+[![codewars](https://www.codewars.com/users/RaingGOR/badges/large)](https://www.codewars.com/users/RaingGOR/badges/large)
 
+- ### Wakatime
 [![wakatime](https://wakatime.com/badge/user/60927bc0-7487-4783-a7f5-fefdc2f692ed.svg)](https://wakatime.com/@60927bc0-7487-4783-a7f5-fefdc2f692ed)
+
+- ### Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaingGor&theme=dracula)](https://github.com/RaingGor/github-profile-trophy)
 
 
