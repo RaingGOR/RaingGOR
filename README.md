@@ -54,9 +54,9 @@
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaingGor&show_icons=true&theme=dracula" alt="GitHub Stats" width="400px"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=RaingGor&show_icons=true&theme=dracula" alt="GitHub Stats" width="400px"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaingGor&layout=compact&theme=dracula" alt="Top Languages" width="335px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaingGor&layout=compact&theme=dracula" alt="Top Languages" width="335px"/> -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raingGor&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raingGor&theme=2077)
