@@ -3,7 +3,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/04/9a/66/049a66a882a54de0d228c247760bb384.gif" alt="Coder GIF" height="200px" width="355px"/>
+  <img src="https://i.pinimg.com/originals/d7/a0/3a/d7a03afbb50655618279b6abe484b40e.jpg"/>
 </p>
 
 <!-- About Me -->
