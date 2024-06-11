@@ -1,5 +1,5 @@
 <!-- Project Title -->
-<h1 align="center">Hello Everyone! 👋</h1>
+<h1 align="center">Hello Everyone!  👋</h1>
 
 <!-- GIF -->
 <p align="center">
