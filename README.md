@@ -9,7 +9,7 @@
 <!-- About Me -->
 ## 👨🏻‍🎓 About Me
 
-- 🚀 17 years old coder
+- 🚀 18 years old coder
 - 📚 Proficient in Spring Framework and Docker
 - 💻 Knowledge in Java (Swing, JavaCore), C++, Python
 - 🌱 Always eager to learn new technologies and improve my coding skills
