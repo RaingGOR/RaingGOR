@@ -21,20 +21,50 @@
 
 <!-- Tech Stack -->
 ## 🔧 Tech Stack
-
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+  <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50"/>
+  </a>
   &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
+  <a href="https://www.java.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/>
+  </a>
   &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <a href="https://hibernate.org/" target="_blank">
+    <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" height="50"/>
+  </a>
   &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <a href="https://www.docker.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50"/>
+  </a>
   &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+  <a href="https://github.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>
+  </a>
   &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+  <a href="https://www.jetbrains.com/ru-ru/idea/" target="_blank">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9c/20200803071015%21IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/>
+  </a>
+  &nbsp;
+
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/>
+  </a>
+  &nbsp;
 </div>
+
 
 <br>
 
@@ -70,10 +100,13 @@
 ## 🌐 Connect with Me
 
 <p align="center">
- <a href="https://discord.com/users/raingor"><img src="https://simpleicons.org/icons/discord.svg" title="Raingor" alt="JavaRUCommunity Discord Server" width="40" height="40"/></a>
+  <a href="https://discord.com/users/raingor"><img src="https://simpleicons.org/icons/discord.svg" title="Raingor" alt="Raingor Discord" width="40" height="40"/></a>
   &nbsp;
   <a href="https://discord.gg/HuKpU9ut96"><img src="https://img.icons8.com/?size=100&id=25627&format=png&color=FA5252" title="JavaRUCommunity Discord Server" alt="JavaRUCommunity Discord Server" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://t.me/Raingor"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" width="40" height="40"/></a>
 </p>
+
 
 <br>
 
