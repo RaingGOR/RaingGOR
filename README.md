@@ -11,7 +11,7 @@
 
 - 🚀 18 years old coder
 - 📚 Proficient in Spring Framework and Docker
-- 💻 Knowledge in Java (Swing, JavaCore), C++, Python
+- 💻 Knowledge in Java (Swing, JavaCore)
 - 🌱 Always eager to learn new technologies and improve my coding skills
 - 🎯 Passionate about solving complex problems and developing innovative solutions
 - 🤝 Open to collaboration on interesting projects and sharing knowledge
