@@ -17,7 +17,7 @@
 - 🤝 Open to collaboration on interesting projects and sharing knowledge
 - 🏆 Participated in various coding competitions and hackathons
 
-<br>
+<h1 align="center">🏢 I am considering job offers</h1>
 
 <!-- Tech Stack -->
 ## 🔧 Tech Stack
