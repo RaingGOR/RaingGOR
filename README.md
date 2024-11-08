@@ -48,6 +48,7 @@
 <!-- Coding Activity -->
 ## 📊 Coding Activity
 
+- ### 🎓 LeetCode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/RaingGOR)](https://leetcode.com/u/RaingGOR/)
 
 - ### ⏱️ Wakatime
