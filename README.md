@@ -16,8 +16,7 @@
 - 🎯 Passionate about solving complex problems and developing innovative solutions
 - 🤝 Open to collaboration on interesting projects and sharing knowledge
 - 🏆 Participated in various coding competitions and hackathons
-
-<h1 align="center">🏢 I am considering job offers</h1>
+- 🏢 I am considering job offers
 
 <!-- Tech Stack -->
 ## 🔧 Tech Stack
