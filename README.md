@@ -3,7 +3,8 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d7/a0/3a/d7a03afbb50655618279b6abe484b40e.jpg"/>
+  <img src="https://i.pinimg.com/originals/87/a7/e5/87a7e51779389a80ce936b3ff634cc09.gif"
+       width="100%" />
 </p>
 
 <!-- About Me -->
