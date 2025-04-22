@@ -83,8 +83,7 @@
   &nbsp;
   <a href="https://discord.gg/HuKpU9ut96"><img src="https://img.icons8.com/?size=100&id=25627&format=png&color=FA5252" title="JavaRUCommunity Discord Server" alt="JavaRUCommunity Discord Server" width="40" height="40"/></a>
   &nbsp;
-  <a href="https://t.me/Raingor"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" width="40" height="40"/></a>
-</p>
+ </p>
 
 
 <br>
