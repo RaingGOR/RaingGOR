@@ -1,94 +1,64 @@
 <!-- Project Title -->
-<h1 align="center">Hello Everyone!  👋</h1>
+<h1 align="center">Hey there! 👋</h1>
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/87/a7/e5/87a7e51779389a80ce936b3ff634cc09.gif"
-       width="100%" />
+  <img src="https://i.pinimg.com/originals/87/a7/e5/87a7e51779389a80ce936b3ff634cc09.gif" width="100%" />
 </p>
 
 <!-- About Me -->
-## 👨🏻‍🎓 About Me
+## 👨‍💻 About Me
 
-- 📚 Proficient in Spring Framework and Docker
-- 💻 Knowledge in Java (Swing, JavaCore)
-- 🌱 Always eager to learn new technologies and improve my coding skills
-- 🎯 Passionate about solving complex problems and developing innovative solutions
-- 🤝 Open to collaboration on interesting projects and sharing knowledge
-- 🏆 Participated in various coding competitions and hackathons
-- 🏢 I am considering job offers
+- 💼 Java Developer focusing on building scalable backend systems
+- ☕ Working primarily with Java and Spring Boot
+- 🧠 Constantly learning and refining skills through real-world projects
+- 🛠️ Passionate about clean architecture, automation, and DevOps culture
+- 🤝 Open to interesting collaborations and tech conversations
+- 📌 Currently exploring distributed systems and observability tooling
+
+---
 
 <!-- Tech Stack -->
 ## 🔧 Tech Stack
-<div align="center">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50"/>
-  &nbsp;
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/>
-  &nbsp;
-  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" height="50"/>
-  &nbsp;
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50"/>
-  &nbsp;
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>
-  &nbsp;
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9c/20200803071015%21IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="50"/>
-  &nbsp;
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
-  &nbsp;
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/>
-  &nbsp;
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/>
-  &nbsp;
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/>
-</div>
 
-<br>
+<p align="center"> <!-- Core --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg?raw=true" alt="Gradle" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic (ELK)" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg?raw=true" alt="JUnit 5" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="Mockito" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </p>
+
+---
 
 <!-- Coding Activity -->
 ## 📊 Coding Activity
 
-- ### 🎓 LeetCode
+### 🧠 LeetCode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/RaingGOR)](https://leetcode.com/u/RaingGOR/)
 
-- ### ⏱️ Wakatime
-[![wakatime](https://wakatime.com/badge/user/60927bc0-7487-4783-a7f5-fefdc2f692ed.svg)](https://wakatime.com/@60927bc0-7487-4783-a7f5-fefdc2f692ed)
-
-- ### 🏆 Trophy
+### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=RaingGor&theme=dracula)](https://github.com/RaingGor/github-profile-trophy)
 
-- ### 🥋 Codewars
-[![codewars](https://www.codewars.com/users/RaingGOR/badges/large)](https://www.codewars.com/users/RaingGOR/badges/large)
-<br>
+### 🥋 Codewars
+[![codewars](https://www.codewars.com/users/RaingGOR/badges/large)](https://www.codewars.com/users/RaingGOR)
+
+---
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
+
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=RaingGor&show_icons=true&theme=dracula" alt="GitHub Stats" width="400px"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaingGor&layout=compact&theme=dracula" alt="Top Languages" width="335px"/> -->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raingGor&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raingGor&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raingGor&theme=2077)
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaingGor&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaingGor&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaingGor&theme=2077" />
 </div>
 
-<br>
+---
 
 <!-- Social Media -->
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://discord.com/users/raingor"><img src="https://simpleicons.org/icons/discord.svg" title="Raingor" alt="Raingor Discord" width="40" height="40"/></a>
+  <a href="https://discord.com/users/raingor" title="Raingor Discord">
+    <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="40" height="40"/>
+  </a>
   &nbsp;
-  <a href="https://discord.gg/HuKpU9ut96"><img src="https://img.icons8.com/?size=100&id=25627&format=png&color=FA5252" title="JavaRUCommunity Discord Server" alt="JavaRUCommunity Discord Server" width="40" height="40"/></a>
-  &nbsp;
- </p>
-
-
-<br>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaingGor&style=flat-square&color=blue" alt="Profile Views"/>
+  <a href="https://discord.gg/HuKpU9ut96" title="JavaRUCommunity Discord Server">
+    <img src="https://img.icons8.com/?size=100&id=25627&format=png&color=FA5252" alt="JavaRUCommunity Discord" width="40" height="40"/>
+  </a>
 </p>
