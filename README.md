@@ -23,21 +23,6 @@
 
 <p align="center"> <!-- Core --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg?raw=true" alt="Gradle" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic (ELK)" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg?raw=true" alt="JUnit 5" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="Mockito" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </p>
 
----
-
-<!-- Coding Activity -->
-## 📊 Coding Activity
-
-### 🧠 LeetCode
-[![Leetcode Stats](https://leetcard.jacoblin.cool/RaingGOR)](https://leetcode.com/u/RaingGOR/)
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=RaingGor&theme=dracula)](https://github.com/RaingGor/github-profile-trophy)
-
-### 🥋 Codewars
-[![codewars](https://www.codewars.com/users/RaingGOR/badges/large)](https://www.codewars.com/users/RaingGOR)
-
----
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
